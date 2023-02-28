@@ -1,4 +1,4 @@
-Hi there, my name is Gabe 👋.  I am one of those folks who made a career change into tech and inadvertently found their new hobby. 
+Hi there, my name is Gabe 👋.  I am one of those folks who made a career change into tech and inadvertently found their new love. 
 
 <!--
 **gabrielarce/gabrielarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
